@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="37.565" tests="7" errors="0" skipped="0" failures="4">
+  <properties>
+    <property name="JOB_NAME" value="inetBanking_Maven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/inetBanking_Maven/4/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="DEFLOGDIR" value="C:\ProgramData\McAfee\Endpoint Security\Logs"/>
+    <property name="JENKINS_HOME" value="C:\Users\aapc\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="d56a8a8b359bd148"/>
+    <property name="POM_ARTIFACTID" value="inetBankingV1"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="POM_DISPLAYNAME" value="inetBankingV1"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\aapc\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="18+36-2087"/>
+    <property name="IntelliJ IDEA Community Edition" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.3\bin;"/>
+    <property name="user.name" value="aapc"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="inetBanking_Maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/inetBanking_Maven/4/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18\bin"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="LOCALAPPDATA" value="C:\Users\aapc\AppData\Local"/>
+    <property name="java.version" value="18"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="aapc"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="BUILD_ID" value="4"/>
+    <property name="PyCharm Community Edition" value="C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Dev\Automation\Maven\apache-maven-3.8.2\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="=ExitCode" value="00000000"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/inetBanking_Maven/4/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\aapc\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/inetBanking_Maven/4/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="18+36-2087"/>
+    <property name="user.variant" value=""/>
+    <property name="p6_java_home" value="C:\Program Files\Java\jdk1.8.0_251"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/inetBanking_Maven/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="AAPC-IN"/>
+    <property name="GRADLE_HOME" value="C:\Gradle\gradle-7.0.1"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-18"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\aapc"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="AAPC-IN"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="inetBankingV1"/>
+    <property name="OpenSSL_HOME" value="C:\Dev\OpenSSL"/>
+    <property name="user.home" value="C:\Users\aapc"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-inetBanking_Maven-4"/>
+    <property name="JENKINS_SERVER_COOKIE" value="d56a8a8b359bd148"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2022-03-22"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\aapc"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Dev\Automation\Maven\apache-maven-3.8.2/bin;C:\Program Files\Java\jdk-18/bin;C:\Program Files\Java\jdk-18/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\aapc\virtual\product\12.2.0\dbhome_2\bin;C:\app\aapc\product\12.1.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Sennheiser\SenncomSDK\;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Dev\Automation\Maven\apache-maven-3.8.2\bin;D:\WINDOWS.X64_193000_db_home\OPatch;C:\Dev\OpenSSL\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Gradle\gradle-7.0.1\bin;C:\Dev\Automation\Maven\apache-maven-3.8.2\bin;C:\Dev\Python\Scripts\;C:\Dev\Python\;C:\Users\aapc\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.3\bin;;C:\Users\aapc\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\aapc\AppData\Roaming"/>
+    <property name="ZES_ENABLE_SYSMAN" value="1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Dev\Automation\Maven\apache-maven-3.8.2"/>
+    <property name="java.class.path" value="C:\Users\aapc\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Dev\Automation\Maven\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar;C:\Dev\Automation\Maven\apache-maven-3.8.2/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Dev\Automation\Maven\apache-maven-3.8.2 C:\Users\aapc\.jenkins\war\WEB-INF\lib\remoting-4.12.jar C:\Users\aapc\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\aapc\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 52607"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-18/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\app\aapc\virtual\product\12.2.0\dbhome_2\bin;C:\app\aapc\product\12.1.0\client_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Sennheiser\SenncomSDK\;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Program Files\Git\cmd;C:\Program Files\Git\bin\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Dev\Automation\Maven\apache-maven-3.8.2\bin;D:\WINDOWS.X64_193000_db_home\OPatch;C:\Dev\OpenSSL\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Gradle\gradle-7.0.1\bin;C:\Dev\Automation\Maven\apache-maven-3.8.2\bin;C:\Dev\Python\Scripts\;C:\Dev\Python\;C:\Users\aapc\AppData\Local\Microsoft\WindowsApps;C:\WINDOWS\system32;;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.1.3\bin;;C:\Users\aapc\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-18/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 12, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="M2_HOME" value="C:\Dev\Automation\Maven\apache-maven-3.8.2"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Users\aapc\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\aapc\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Dev\Automation\Maven\apache-maven-3.8.2/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/inetBanking_Maven/4/"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="C:\Users\aapc\eclipse-workspace\inetBankingV1"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/inetBanking_Maven/"/>
+    <property name="LOGONSERVER" value="\\AAPC-IN"/>
+    <property name="USERDOMAIN" value="AAPC-IN"/>
+    <property name="MAVEN_HOME" value="C:\Dev\Automation\Maven\apache-maven-3.8.2"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="4"/>
+    <property name="PROCESSOR_REVISION" value="8e0c"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Dev\Automation\Jenkins"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\aapc\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\aapc\.jenkins\workspace\inetBanking_Maven@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\aapc\.jenkins\workspace\inetBanking_Maven"/>
+    <property name="LSFORCEHOST" value="jawslicense.us.oracle.com"/>
+    <property name="maven3.interceptor.common" value="C:\Users\aapc\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase name="loginTest" classname="com.inetBanking.testCases.TC_LoginTest_001" time="3.82">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.inetBanking.testCases.TC_LoginTest_001.loginTest(TC_LoginTest_001.java:29)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_LoginTest_001.java:15)- URL is opened
+ INFO [main] (TC_LoginTest_001.java:18)- Username is entered
+ INFO [main] (TC_LoginTest_001.java:20)- Password is entered
+Screenshot taken
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 58956
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Mar 22, 2022 10:36:46 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Mar 22, 2022 10:36:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 99, so returning the closest version found: 97
+Mar 22, 2022 10:36:46 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found CDP implementation for version 99 of 97
+]]></system-err>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetBanking.testCases.TC_LoginDDT_002" time="11.445"/>
+  <testcase name="loginDDT" classname="com.inetBanking.testCases.TC_LoginDDT_002" time="6.564">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.inetBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:28)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:18)- Username entered
+ INFO [main] (TC_LoginDDT_002.java:20)- Password entered
+ INFO [main] (TC_LoginDDT_002.java:22)- Clicked Submit
+]]></system-out>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetBanking.testCases.TC_LoginDDT_002" time="5.983">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.inetBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:28)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:18)- Username entered
+ INFO [main] (TC_LoginDDT_002.java:20)- Password entered
+ INFO [main] (TC_LoginDDT_002.java:22)- Clicked Submit
+]]></system-out>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetBanking.testCases.TC_LoginDDT_002" time="6.573">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at com.inetBanking.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:28)
+</failure>
+    <system-out><![CDATA[ INFO [main] (TC_LoginDDT_002.java:18)- Username entered
+ INFO [main] (TC_LoginDDT_002.java:20)- Password entered
+ INFO [main] (TC_LoginDDT_002.java:22)- Clicked Submit
+]]></system-out>
+  </testcase>
+  <testcase name="loginDDT" classname="com.inetBanking.testCases.TC_LoginDDT_002" time="12.563"/>
+  <testcase name="addNewCustomer" classname="com.inetBanking.testCases.TC_AddCustomerTest_003" time="22.3"/>
+</testsuite>
