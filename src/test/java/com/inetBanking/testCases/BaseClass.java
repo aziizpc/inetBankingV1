@@ -16,6 +16,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
@@ -35,6 +36,7 @@ public class BaseClass {
 	@Parameters("browser")
 	@BeforeClass
 	public void setUp(String browser) {
+		
 		logger = Logger.getLogger("eBanking"); // Log4j
 		PropertyConfigurator.configure("Log4j.properties"); // Log4j
 

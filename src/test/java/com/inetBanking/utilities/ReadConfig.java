@@ -48,5 +48,10 @@ public class ReadConfig {
 		String msedgePath = pro.getProperty("msedgepath");
 		return msedgePath;
 	}
+	
+	public String getRunIn() {
+		String runIn = pro.getProperty("runIn");
+		return runIn;
+	}
 
 }

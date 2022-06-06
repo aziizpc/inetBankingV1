@@ -205,3 +205,30 @@
 2022-03-22 22:38:06,116 [main] INFO eBanking - Providing Customer Details ....
 2022-03-22 22:38:21,779 [main] INFO eBanking - validation started....
 2022-03-22 22:38:22,064 [main] INFO eBanking - Test case passed....
+2022-05-18 21:24:12,121 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-05-18 21:24:12,855 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-05-18 21:24:13,381 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-05-18 21:41:57,092 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-05-18 21:41:57,913 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-05-18 21:41:58,562 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-07 00:10:38,055 [main] INFO eBanking - URL is opened
+2022-06-07 00:10:38,454 [main] INFO eBanking - Username is entered
+2022-06-07 00:10:39,058 [main] INFO eBanking - Password is entered
+2022-06-07 00:10:53,736 [main] INFO eBanking - Username entered
+2022-06-07 00:10:53,839 [main] INFO eBanking - Password entered
+2022-06-07 00:10:55,321 [main] INFO eBanking - Clicked Submit
+2022-06-07 00:11:03,802 [main] INFO eBanking - Username entered
+2022-06-07 00:11:04,034 [main] INFO eBanking - Password entered
+2022-06-07 00:11:05,470 [main] INFO eBanking - Clicked Submit
+2022-06-07 00:11:11,620 [main] INFO eBanking - Username entered
+2022-06-07 00:11:11,705 [main] INFO eBanking - Password entered
+2022-06-07 00:11:12,209 [main] INFO eBanking - Clicked Submit
+2022-06-07 00:11:17,641 [main] INFO eBanking - Username entered
+2022-06-07 00:11:17,735 [main] INFO eBanking - Password entered
+2022-06-07 00:11:18,269 [main] INFO eBanking - Clicked Submit
+2022-06-07 00:11:24,434 [main] INFO eBanking - Username entered
+2022-06-07 00:11:24,585 [main] INFO eBanking - Password entered
+2022-06-07 00:11:25,471 [main] INFO eBanking - Clicked Submit
+2022-06-07 00:11:40,185 [main] INFO eBanking - Username is provided
+2022-06-07 00:11:40,514 [main] INFO eBanking - Passsword is provided
+2022-06-07 00:11:46,326 [main] INFO eBanking - Providing Customer Details ....

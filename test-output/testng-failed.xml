@@ -4,7 +4,7 @@
   <listeners>
     <listener class-name="com.inetBanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="BankingApp Test -- Can be anything(failed)">
+  <test thread-count="5" name="BankingApp Test  Can be anything(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.inetBanking.testCases.TC_AddCustomerTest_003">
@@ -13,6 +13,18 @@
           <include name="addNewCustomer"/>
         </methods>
       </class> <!-- com.inetBanking.testCases.TC_AddCustomerTest_003 -->
+      <class name="com.inetBanking.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.inetBanking.testCases.TC_LoginTest_001 -->
+      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="0 1 2 3 4"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.inetBanking.testCases.TC_LoginDDT_002 -->
     </classes>
-  </test> <!-- BankingApp Test - Can be anything(failed) -->
+  </test> <!-- BankingApp Test  Can be anything(failed) -->
 </suite> <!-- Failed suite [InetBankingV1] -->
