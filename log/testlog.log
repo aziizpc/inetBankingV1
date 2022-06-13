@@ -232,3 +232,140 @@
 2022-06-07 00:11:40,185 - eBanking -INFO - Username is provided
 2022-06-07 00:11:40,514 - eBanking -INFO - Passsword is provided
 2022-06-07 00:11:46,326 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 17:13:54,705 - eBanking -INFO - URL is opened
+2022-06-12 17:13:58,727 - eBanking -INFO - URL is opened
+2022-06-12 17:13:58,798 - eBanking -INFO - Username is entered
+2022-06-12 17:13:58,829 - eBanking -INFO - Username is entered
+2022-06-12 17:13:58,916 - eBanking -INFO - Password is entered
+2022-06-12 17:13:58,954 - eBanking -INFO - Password is entered
+2022-06-12 17:15:19,496 - eBanking -INFO - Username entered
+2022-06-12 17:15:19,569 - eBanking -INFO - Password entered
+2022-06-12 17:15:20,715 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:21,545 - eBanking -INFO - Username entered
+2022-06-12 17:15:21,570 - eBanking -INFO - Password entered
+2022-06-12 17:15:21,999 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:24,795 - eBanking -INFO - Username entered
+2022-06-12 17:15:24,837 - eBanking -INFO - Password entered
+2022-06-12 17:15:25,272 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:26,350 - eBanking -INFO - Username entered
+2022-06-12 17:15:26,389 - eBanking -INFO - Password entered
+2022-06-12 17:15:26,788 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:29,340 - eBanking -INFO - Username entered
+2022-06-12 17:15:29,384 - eBanking -INFO - Password entered
+2022-06-12 17:15:29,811 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:30,883 - eBanking -INFO - Username entered
+2022-06-12 17:15:30,917 - eBanking -INFO - Password entered
+2022-06-12 17:15:31,410 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:33,554 - eBanking -INFO - Username entered
+2022-06-12 17:15:33,596 - eBanking -INFO - Password entered
+2022-06-12 17:15:33,995 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:35,127 - eBanking -INFO - Username entered
+2022-06-12 17:15:35,169 - eBanking -INFO - Password entered
+2022-06-12 17:15:35,574 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:38,090 - eBanking -INFO - Username entered
+2022-06-12 17:15:38,130 - eBanking -INFO - Password entered
+2022-06-12 17:15:38,537 - eBanking -INFO - Clicked Submit
+2022-06-12 17:15:47,665 - eBanking -INFO - Login passed
+2022-06-12 17:15:47,706 - eBanking -INFO - Username is provided
+2022-06-12 17:15:47,735 - eBanking -INFO - Passsword is provided
+2022-06-12 17:15:52,002 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 17:16:03,853 - eBanking -INFO - Username is provided
+2022-06-12 17:16:04,002 - eBanking -INFO - Passsword is provided
+2022-06-12 17:16:08,622 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 17:16:29,678 - eBanking -INFO - validation started....
+2022-06-12 17:16:29,868 - eBanking -INFO - Test case passed....
+2022-06-12 17:21:33,946 - eBanking -INFO - URL is opened
+2022-06-12 17:21:35,767 - eBanking -INFO - URL is opened
+2022-06-12 17:21:35,930 - eBanking -INFO - Username is entered
+2022-06-12 17:21:35,982 - eBanking -INFO - Username is entered
+2022-06-12 17:21:36,220 - eBanking -INFO - Password is entered
+2022-06-12 17:21:36,289 - eBanking -INFO - Password is entered
+2022-06-12 17:21:44,795 - eBanking -INFO - Username entered
+2022-06-12 17:21:45,001 - eBanking -INFO - Password entered
+2022-06-12 17:21:45,553 - eBanking -INFO - Clicked Submit
+2022-06-12 17:21:51,107 - eBanking -INFO - Username entered
+2022-06-12 17:21:51,305 - eBanking -INFO - Password entered
+2022-06-12 17:21:51,872 - eBanking -INFO - Clicked Submit
+2022-06-12 17:21:57,075 - eBanking -INFO - Username entered
+2022-06-12 17:21:57,252 - eBanking -INFO - Password entered
+2022-06-12 17:21:57,784 - eBanking -INFO - Clicked Submit
+2022-06-12 17:22:03,169 - eBanking -INFO - Username entered
+2022-06-12 17:22:03,365 - eBanking -INFO - Password entered
+2022-06-12 17:22:03,879 - eBanking -INFO - Clicked Submit
+2022-06-12 17:22:09,296 - eBanking -INFO - Username entered
+2022-06-12 17:22:09,511 - eBanking -INFO - Password entered
+2022-06-12 17:22:10,038 - eBanking -INFO - Clicked Submit
+2022-06-12 17:22:20,045 - eBanking -INFO - Username is provided
+2022-06-12 17:22:21,031 - eBanking -INFO - Passsword is provided
+2022-06-12 17:22:26,313 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 17:25:08,709 - eBanking -INFO - URL is opened
+2022-06-12 17:25:10,268 - eBanking -INFO - Username is entered
+2022-06-12 17:25:10,730 - eBanking -INFO - Password is entered
+2022-06-12 17:25:24,453 - eBanking -INFO - Username entered
+2022-06-12 17:25:24,747 - eBanking -INFO - Password entered
+2022-06-12 17:25:25,850 - eBanking -INFO - Clicked Submit
+2022-06-12 17:25:32,064 - eBanking -INFO - Username entered
+2022-06-12 17:25:32,314 - eBanking -INFO - Password entered
+2022-06-12 17:25:33,563 - eBanking -INFO - Clicked Submit
+2022-06-12 17:25:39,549 - eBanking -INFO - Username entered
+2022-06-12 17:25:39,911 - eBanking -INFO - Password entered
+2022-06-12 17:25:40,961 - eBanking -INFO - Clicked Submit
+2022-06-12 17:25:46,742 - eBanking -INFO - Username entered
+2022-06-12 17:25:47,026 - eBanking -INFO - Password entered
+2022-06-12 17:25:48,210 - eBanking -INFO - Clicked Submit
+2022-06-12 17:25:54,062 - eBanking -INFO - Username entered
+2022-06-12 17:25:54,329 - eBanking -INFO - Password entered
+2022-06-12 17:25:55,576 - eBanking -INFO - Clicked Submit
+2022-06-12 17:26:40,918 - eBanking -INFO - URL is opened
+2022-06-12 17:26:42,902 - eBanking -INFO - Username is entered
+2022-06-12 17:26:43,193 - eBanking -INFO - Password is entered
+2022-06-12 17:27:39,172 - eBanking -INFO - Username is provided
+2022-06-12 17:27:39,421 - eBanking -INFO - Passsword is provided
+2022-06-12 17:27:45,739 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 17:27:59,327 - eBanking -INFO - Username entered
+2022-06-12 17:27:59,543 - eBanking -INFO - Password entered
+2022-06-12 17:28:01,022 - eBanking -INFO - Clicked Submit
+2022-06-12 17:29:00,294 - eBanking -INFO - Username entered
+2022-06-12 17:29:00,847 - eBanking -INFO - Password entered
+2022-06-12 17:29:04,836 - eBanking -INFO - Clicked Submit
+2022-06-12 17:29:27,942 - eBanking -INFO - Username entered
+2022-06-12 17:29:28,496 - eBanking -INFO - Password entered
+2022-06-12 17:29:30,011 - eBanking -INFO - Clicked Submit
+2022-06-12 17:29:54,052 - eBanking -INFO - Username entered
+2022-06-12 17:29:54,248 - eBanking -INFO - Password entered
+2022-06-12 17:29:55,975 - eBanking -INFO - Clicked Submit
+2022-06-12 17:30:22,192 - eBanking -INFO - Username entered
+2022-06-12 17:30:22,544 - eBanking -INFO - Password entered
+2022-06-12 17:30:25,258 - eBanking -INFO - Clicked Submit
+2022-06-12 17:31:34,857 - eBanking -INFO - Username is provided
+2022-06-12 17:31:35,055 - eBanking -INFO - Passsword is provided
+2022-06-12 17:31:40,419 - eBanking -INFO - Providing Customer Details ....
+2022-06-12 19:54:14,222 - eBanking -INFO - URL is opened
+2022-06-12 19:54:14,998 - eBanking -INFO - Username is entered
+2022-06-12 19:54:15,358 - eBanking -INFO - Password is entered
+2022-06-12 19:59:32,946 - eBanking -INFO - Username is provided
+2022-06-12 19:59:33,170 - eBanking -INFO - Passsword is provided
+2022-06-12 19:59:38,758 - eBanking -INFO - Providing Customer Details ....
+2022-06-13 01:16:17,642 - eBanking -INFO - URL is opened
+2022-06-13 01:16:57,897 - eBanking -INFO - URL is opened
+2022-06-13 12:54:59,281 - eBanking -INFO - URL is opened
+2022-06-13 12:55:33,225 - eBanking -INFO - URL is opened
+2022-06-13 12:55:48,500 - eBanking -INFO - Username is entered
+2022-06-13 12:55:48,502 - eBanking -INFO - Username is entered
+2022-06-13 12:55:55,836 - eBanking -INFO - Password is entered
+2022-06-13 12:55:58,713 - eBanking -INFO - Password is entered
+2022-06-13 12:59:57,253 - eBanking -INFO - Username entered
+2022-06-13 13:00:04,711 - eBanking -INFO - Password entered
+2022-06-13 13:00:12,878 - eBanking -INFO - Clicked Submit
+2022-06-13 13:00:44,773 - eBanking -INFO - Username entered
+2022-06-13 13:00:51,726 - eBanking -INFO - Password entered
+2022-06-13 13:01:00,318 - eBanking -INFO - Clicked Submit
+2022-06-13 13:01:38,065 - eBanking -INFO - Username entered
+2022-06-13 13:01:40,713 - eBanking -INFO - Password entered
+2022-06-13 13:01:47,018 - eBanking -INFO - Clicked Submit
+2022-06-13 13:02:59,871 - eBanking -INFO - Username entered
+2022-06-13 13:03:04,849 - eBanking -INFO - Password entered
+2022-06-13 13:03:17,053 - eBanking -INFO - Clicked Submit
+2022-06-13 13:03:53,865 - eBanking -INFO - Username entered
+2022-06-13 13:03:56,893 - eBanking -INFO - Password entered
+2022-06-13 13:04:03,777 - eBanking -INFO - Clicked Submit

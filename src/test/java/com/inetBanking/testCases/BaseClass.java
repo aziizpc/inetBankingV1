@@ -2,6 +2,8 @@ package com.inetBanking.testCases;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
@@ -17,6 +19,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
@@ -36,7 +39,7 @@ public class BaseClass {
 	@Parameters("browser")
 	@BeforeClass
 	public void setUp(String browser) {
-		
+
 		logger = Logger.getLogger("eBanking"); // Log4j
 		PropertyConfigurator.configure("Log4j.properties"); // Log4j
 
@@ -44,13 +47,37 @@ public class BaseClass {
 			// System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")
 			// + "//Drivers//chromedriver.exe"); // Note: Forward slash
 			System.setProperty("webdriver.chrome.driver", readConfig.getChromePath());
-			driver = new ChromeDriver();
+			// driver = new ChromeDriver();
+			DesiredCapabilities cap = new DesiredCapabilities();
+			cap.setCapability("browserName", "chrome");
+			try {
+				// driver = new RemoteWebDriver(new URL("http://3.109.2.30:4444"), cap);
+				driver = new RemoteWebDriver(new URL("http://152.70.64.27:4444"), cap); // OCI
+			} catch (MalformedURLException e) {
+				e.printStackTrace();
+			}
 		} else if (browser.equals("firefox")) {
 			System.setProperty("webdriver.gecko.driver", readConfig.getFirefoxPath());
-			driver = new FirefoxDriver();
+			// driver = new FirefoxDriver();
+			DesiredCapabilities cap = new DesiredCapabilities();
+			cap.setCapability("browserName", "firefox");
+			try {
+				// driver = new RemoteWebDriver(new URL("http://3.109.2.30:4444"), cap);
+				driver = new RemoteWebDriver(new URL("http://152.70.64.27:4444"), cap); // OCI
+			} catch (MalformedURLException e) {
+				e.printStackTrace();
+			}
 		} else if (browser.equals("edge")) {
 			System.setProperty("webdriver.edge.driver", readConfig.getEdgePath());
-			driver = new EdgeDriver();
+			// driver = new EdgeDriver();
+			DesiredCapabilities cap = new DesiredCapabilities();
+			cap.setCapability("browserName", "MicrosoftEdge");
+			try {
+				// driver = new RemoteWebDriver(new URL("http://3.109.2.30:4444"), cap);
+				driver = new RemoteWebDriver(new URL("http://152.70.64.27:4444"), cap); // OCI
+			} catch (MalformedURLException e) {
+				e.printStackTrace();
+			}
 		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.get(baseUrl);
@@ -77,13 +104,13 @@ public class BaseClass {
 			return false;
 		}
 	}
-	
+
 	public String randomString() {
-		return (RandomStringUtils.randomAlphabetic(8));		
+		return (RandomStringUtils.randomAlphabetic(8));
 	}
-	
+
 	public String randomNumber() {
-		return (RandomStringUtils.randomNumeric(8));		
+		return (RandomStringUtils.randomNumeric(8));
 	}
 
 }

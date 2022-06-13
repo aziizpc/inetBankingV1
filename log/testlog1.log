@@ -232,3 +232,140 @@
 2022-06-07 00:11:40,185 [main] INFO eBanking - Username is provided
 2022-06-07 00:11:40,514 [main] INFO eBanking - Passsword is provided
 2022-06-07 00:11:46,326 [main] INFO eBanking - Providing Customer Details ....
+2022-06-12 17:13:54,705 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-12 17:13:58,727 [TestNG-tests-2] INFO eBanking - URL is opened
+2022-06-12 17:13:58,798 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-06-12 17:13:58,829 [TestNG-tests-2] INFO eBanking - Username is entered
+2022-06-12 17:13:58,916 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-12 17:13:58,954 [TestNG-tests-2] INFO eBanking - Password is entered
+2022-06-12 17:15:19,496 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:15:19,569 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:15:20,715 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:15:21,545 [TestNG-tests-2] INFO eBanking - Username entered
+2022-06-12 17:15:21,570 [TestNG-tests-2] INFO eBanking - Password entered
+2022-06-12 17:15:21,999 [TestNG-tests-2] INFO eBanking - Clicked Submit
+2022-06-12 17:15:24,795 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:15:24,837 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:15:25,272 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:15:26,350 [TestNG-tests-2] INFO eBanking - Username entered
+2022-06-12 17:15:26,389 [TestNG-tests-2] INFO eBanking - Password entered
+2022-06-12 17:15:26,788 [TestNG-tests-2] INFO eBanking - Clicked Submit
+2022-06-12 17:15:29,340 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:15:29,384 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:15:29,811 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:15:30,883 [TestNG-tests-2] INFO eBanking - Username entered
+2022-06-12 17:15:30,917 [TestNG-tests-2] INFO eBanking - Password entered
+2022-06-12 17:15:31,410 [TestNG-tests-2] INFO eBanking - Clicked Submit
+2022-06-12 17:15:33,554 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:15:33,596 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:15:33,995 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:15:35,127 [TestNG-tests-2] INFO eBanking - Username entered
+2022-06-12 17:15:35,169 [TestNG-tests-2] INFO eBanking - Password entered
+2022-06-12 17:15:35,574 [TestNG-tests-2] INFO eBanking - Clicked Submit
+2022-06-12 17:15:38,090 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:15:38,130 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:15:38,537 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:15:47,665 [TestNG-tests-1] INFO eBanking - Login passed
+2022-06-12 17:15:47,706 [TestNG-tests-2] INFO eBanking - Username is provided
+2022-06-12 17:15:47,735 [TestNG-tests-2] INFO eBanking - Passsword is provided
+2022-06-12 17:15:52,002 [TestNG-tests-2] INFO eBanking - Providing Customer Details ....
+2022-06-12 17:16:03,853 [TestNG-tests-1] INFO eBanking - Username is provided
+2022-06-12 17:16:04,002 [TestNG-tests-1] INFO eBanking - Passsword is provided
+2022-06-12 17:16:08,622 [TestNG-tests-1] INFO eBanking - Providing Customer Details ....
+2022-06-12 17:16:29,678 [TestNG-tests-1] INFO eBanking - validation started....
+2022-06-12 17:16:29,868 [TestNG-tests-1] INFO eBanking - Test case passed....
+2022-06-12 17:21:33,946 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-12 17:21:35,767 [TestNG-tests-2] INFO eBanking - URL is opened
+2022-06-12 17:21:35,930 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-06-12 17:21:35,982 [TestNG-tests-2] INFO eBanking - Username is entered
+2022-06-12 17:21:36,220 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-12 17:21:36,289 [TestNG-tests-2] INFO eBanking - Password is entered
+2022-06-12 17:21:44,795 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:21:45,001 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:21:45,553 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:21:51,107 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:21:51,305 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:21:51,872 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:21:57,075 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:21:57,252 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:21:57,784 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:22:03,169 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:22:03,365 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:22:03,879 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:22:09,296 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:22:09,511 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:22:10,038 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:22:20,045 [TestNG-tests-1] INFO eBanking - Username is provided
+2022-06-12 17:22:21,031 [TestNG-tests-1] INFO eBanking - Passsword is provided
+2022-06-12 17:22:26,313 [TestNG-tests-1] INFO eBanking - Providing Customer Details ....
+2022-06-12 17:25:08,709 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-12 17:25:10,268 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-06-12 17:25:10,730 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-12 17:25:24,453 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:25:24,747 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:25:25,850 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:25:32,064 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:25:32,314 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:25:33,563 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:25:39,549 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:25:39,911 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:25:40,961 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:25:46,742 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:25:47,026 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:25:48,210 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:25:54,062 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:25:54,329 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:25:55,576 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:26:40,918 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-12 17:26:42,902 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-06-12 17:26:43,193 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-12 17:27:39,172 [TestNG-tests-2] INFO eBanking - Username is provided
+2022-06-12 17:27:39,421 [TestNG-tests-2] INFO eBanking - Passsword is provided
+2022-06-12 17:27:45,739 [TestNG-tests-2] INFO eBanking - Providing Customer Details ....
+2022-06-12 17:27:59,327 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:27:59,543 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:28:01,022 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:29:00,294 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:29:00,847 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:29:04,836 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:29:27,942 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:29:28,496 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:29:30,011 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:29:54,052 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:29:54,248 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:29:55,975 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:30:22,192 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-12 17:30:22,544 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-12 17:30:25,258 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-12 17:31:34,857 [TestNG-tests-1] INFO eBanking - Username is provided
+2022-06-12 17:31:35,055 [TestNG-tests-1] INFO eBanking - Passsword is provided
+2022-06-12 17:31:40,419 [TestNG-tests-1] INFO eBanking - Providing Customer Details ....
+2022-06-12 19:54:14,222 [TestNG-tests-2] INFO eBanking - URL is opened
+2022-06-12 19:54:14,998 [TestNG-tests-2] INFO eBanking - Username is entered
+2022-06-12 19:54:15,358 [TestNG-tests-2] INFO eBanking - Password is entered
+2022-06-12 19:59:32,946 [TestNG-tests-2] INFO eBanking - Username is provided
+2022-06-12 19:59:33,170 [TestNG-tests-2] INFO eBanking - Passsword is provided
+2022-06-12 19:59:38,758 [TestNG-tests-2] INFO eBanking - Providing Customer Details ....
+2022-06-13 01:16:17,642 [TestNG-tests-2] INFO eBanking - URL is opened
+2022-06-13 01:16:57,897 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-13 12:54:59,281 [TestNG-tests-1] INFO eBanking - URL is opened
+2022-06-13 12:55:33,225 [TestNG-tests-2] INFO eBanking - URL is opened
+2022-06-13 12:55:48,500 [TestNG-tests-2] INFO eBanking - Username is entered
+2022-06-13 12:55:48,502 [TestNG-tests-1] INFO eBanking - Username is entered
+2022-06-13 12:55:55,836 [TestNG-tests-1] INFO eBanking - Password is entered
+2022-06-13 12:55:58,713 [TestNG-tests-2] INFO eBanking - Password is entered
+2022-06-13 12:59:57,253 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-13 13:00:04,711 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-13 13:00:12,878 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-13 13:00:44,773 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-13 13:00:51,726 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-13 13:01:00,318 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-13 13:01:38,065 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-13 13:01:40,713 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-13 13:01:47,018 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-13 13:02:59,871 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-13 13:03:04,849 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-13 13:03:17,053 [TestNG-tests-1] INFO eBanking - Clicked Submit
+2022-06-13 13:03:53,865 [TestNG-tests-1] INFO eBanking - Username entered
+2022-06-13 13:03:56,893 [TestNG-tests-1] INFO eBanking - Password entered
+2022-06-13 13:04:03,777 [TestNG-tests-1] INFO eBanking - Clicked Submit

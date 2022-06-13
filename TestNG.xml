@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-  <suite name="InetBankingV1">
+<suite name="InetBankingV1" verbose="1" thread-count="5"
+	parallel="tests">
 
 	<listeners>
 		<listener class-name="com.inetBanking.utilities.Reporting" />
 	</listeners>
 
-	<test name="BankingApp Test  Can be anything">
+	<test name="BankingApp Test - Chrome">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.inetBanking.testCases.TC_LoginTest_001" />
 			<class name="com.inetBanking.testCases.TC_LoginDDT_002" />
 			<class name="com.inetBanking.testCases.TC_AddCustomerTest_003" />
 		</classes>
+	</test>
 
+	<test name="BankingApp Test - Edge">
+		<parameter name="browser" value="edge" />
+		<classes>
+			<class name="com.inetBanking.testCases.TC_LoginTest_001" />
+			<class name="com.inetBanking.testCases.TC_LoginDDT_002" />
+			<class name="com.inetBanking.testCases.TC_AddCustomerTest_003" />
+		</classes>
 	</test>
 
 </suite>
